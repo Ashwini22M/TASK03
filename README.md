@@ -26,7 +26,7 @@ This is my submission for Internship Task 03. The project is developed using **H
 
 ---
 
-**Created by Gaurav Kumar**  
+**Created by ASHWINI MISHRA**  
 3rd Year CSE Student  
 📍 Motihari College of Engineering  
-📧 Email: majorgaurav2211@gmail.com
+📧 Email: 
